@@ -1,0 +1,36 @@
+,ColName,Type,Min,1stQu,Median,Mean,3rdQu,Max,NullCount,DistVals
+1,Age,Numerical,18,30,36,36.92,43,60,0,.
+2,Attrition,Categorical,.,.,.,.,.,.,0,"Yes,No"
+3,BusinessTravel,Categorical,.,.,.,.,.,.,0,"Travel_Rarely,Travel_Frequently,Non-Travel"
+4,DailyRate,Numerical,102,465,802,802.49,1157,1499,0,.
+5,Department,Categorical,.,.,.,.,.,.,0,"Sales,Research & Development,Human Resources"
+6,DistanceFromHome,Numerical,1,2,7,9.19,14,29,0,.
+7,Education,Numerical,1,2,3,2.91,4,5,0,.
+8,EducationField,Categorical,.,.,.,.,.,.,0,"Life Sciences,Other,Medical,Marketing,Technical Degree,Human Resources"
+9,EmployeeCount,Numerical,1,1,1,1,1,1,0,.
+10,EmployeeNumber,Numerical,1,491.25,1020.5,1024.87,1555.75,2068,0,.
+11,EnvironmentSatisfaction,Numerical,1,2,3,2.72,4,4,0,.
+12,Gender,Categorical,.,.,.,.,.,.,0,"Female,Male"
+13,HourlyRate,Numerical,30,48,66,65.89,83.75,100,0,.
+14,JobInvolvement,Numerical,1,2,3,2.73,3,4,0,.
+15,JobLevel,Numerical,1,1,2,2.06,3,5,0,.
+16,JobRole,Categorical,.,.,.,.,.,.,0,"Sales Executive,Research Scientist,Laboratory Technician,Manufacturing Director,Healthcare Representative,Manager,Sales Representative,Research Director,Human Resources"
+17,JobSatisfaction,Numerical,1,2,3,2.73,4,4,0,.
+18,MaritalStatus,Categorical,.,.,.,.,.,.,0,"Single,Married,Divorced"
+19,MonthlyIncome,Numerical,1009,2911,4919,6502.93,8379,19999,0,.
+20,MonthlyRate,Numerical,2094,8047,14235.5,14313.1,20461.5,26999,0,.
+21,NumCompaniesWorked,Numerical,0,1,2,2.69,4,9,0,.
+22,Over18,Categorical,.,.,.,.,.,.,0,Y
+23,OverTime,Categorical,.,.,.,.,.,.,0,"Yes,No"
+24,PercentSalaryHike,Numerical,11,12,14,15.21,18,25,0,.
+25,PerformanceRating,Numerical,3,3,3,3.15,3,4,0,.
+26,RelationshipSatisfaction,Numerical,1,2,3,2.71,4,4,0,.
+27,StandardHours,Numerical,80,80,80,80,80,80,0,.
+28,StockOptionLevel,Numerical,0,0,1,0.79,1,3,0,.
+29,TotalWorkingYears,Numerical,0,6,10,11.28,15,40,0,.
+30,TrainingTimesLastYear,Numerical,0,2,3,2.8,3,6,0,.
+31,WorkLifeBalance,Numerical,1,2,3,2.76,3,4,0,.
+32,YearsAtCompany,Numerical,0,3,5,7.01,9,40,0,.
+33,YearsInCurrentRole,Numerical,0,2,3,4.23,7,18,0,.
+34,YearsSinceLastPromotion,Numerical,0,0,1,2.19,3,15,0,.
+35,YearsWithCurrManager,Numerical,0,2,3,4.12,7,17,0,.
